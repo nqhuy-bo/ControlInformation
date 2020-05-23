@@ -1,0 +1,4 @@
+C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\ConnectSQL\bin\Debug\ConnectSQL.dll
+C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\ConnectSQL\bin\Debug\ConnectSQL.pdb
+C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\ConnectSQL\obj\Debug\ConnectSQL.dll
+C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\ConnectSQL\obj\Debug\ConnectSQL.pdb

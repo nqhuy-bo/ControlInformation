@@ -1,0 +1,4 @@
+C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\ControlsNew\bin\Debug\ControlsNew.dll
+C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\ControlsNew\bin\Debug\ControlsNew.pdb
+C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\ControlsNew\obj\Debug\ControlsNew.dll
+C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\ControlsNew\obj\Debug\ControlsNew.pdb

@@ -1,0 +1,15 @@
+C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\QuanLySinhVien\obj\Debug\QuanLySinhVien.Form1.resources
+C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\QuanLySinhVien\bin\Debug\ConnectSQL.dll
+C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\QuanLySinhVien\bin\Debug\ConnectSQL.pdb
+C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\QuanLySinhVien\bin\Debug\InformationStudent.dll
+C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\QuanLySinhVien\bin\Debug\NewControls.dll
+C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\QuanLySinhVien\bin\Debug\InformationStudent.pdb
+C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\QuanLySinhVien\bin\Debug\NewControls.pdb

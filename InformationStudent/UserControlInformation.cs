@@ -29,7 +29,7 @@ namespace InformationStudent
             {
                 String[] info = new String[6];
                 ConnectionDB con = new ConnectionDB();
-                info = con.connectDataBase("QLSinhVien", textBoxNumberIDStudent.Text.ToString().Trim());
+                info = con.getDataStudent("QLSinhVien", textBoxNumberIDStudent.Text.ToString().Trim());
                 if (info[1] != null)
                 {
 

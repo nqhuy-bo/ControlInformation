@@ -49,8 +49,9 @@ namespace ConnectSQL
         }
 
         //===============
-      
-        public String[] connectDataBase(String tenSQL,String maSV)
+      //Lấy thông tin một sinh viên
+
+        public String[] getDataStudent(String tenSQL,String maSV)
         {
             String[] info = new String[6];
             String kq="";

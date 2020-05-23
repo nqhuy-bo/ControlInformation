@@ -54,7 +54,8 @@ namespace ConnectSQL
         {
             String[] info = new String[6];
             String kq="";
-            string tenMay = System.Environment.MachineName;
+            string tenMay = Environment.MachineName;
+            //string tenMay = System.Environment.MachineName;
             //Tạo đối tượng Connection
             SqlConnection con = new SqlConnection();
             //Truyền vào chuỗi kết nối tới cơ sở dữ liệu

@@ -11,3 +11,15 @@ C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInfor
 C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\InformationStudent\bin\Debug\ConnectSQL.pdb
 C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\InformationStudent\bin\Debug\NewControls.pdb
 C:\PHANMEM\WORKSPACE\PTPMVUDTM\2001170072_NguyenQuangHuy_BTVN_Buoi3\ControlInformation\InformationStudent\obj\Debug\InformationStudent.UserControlInformation.resources
+C:\Users\ADMIN\Desktop\ControlInformation\InformationStudent\bin\Debug\InformationStudent.dll
+C:\Users\ADMIN\Desktop\ControlInformation\InformationStudent\bin\Debug\InformationStudent.pdb
+C:\Users\ADMIN\Desktop\ControlInformation\InformationStudent\bin\Debug\ConnectSQL.dll
+C:\Users\ADMIN\Desktop\ControlInformation\InformationStudent\bin\Debug\ControlsNew.dll
+C:\Users\ADMIN\Desktop\ControlInformation\InformationStudent\bin\Debug\ConnectSQL.pdb
+C:\Users\ADMIN\Desktop\ControlInformation\InformationStudent\bin\Debug\ControlsNew.pdb
+C:\Users\ADMIN\Desktop\ControlInformation\InformationStudent\bin\Debug\NewControls.pdb
+C:\Users\ADMIN\Desktop\ControlInformation\InformationStudent\obj\Debug\InformationStudent.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\ControlInformation\InformationStudent\obj\Debug\InformationStudent.UserControlInformation.resources
+C:\Users\ADMIN\Desktop\ControlInformation\InformationStudent\obj\Debug\InformationStudent.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\ControlInformation\InformationStudent\obj\Debug\InformationStudent.dll
+C:\Users\ADMIN\Desktop\ControlInformation\InformationStudent\obj\Debug\InformationStudent.pdb
